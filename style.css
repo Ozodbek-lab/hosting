@@ -1,0 +1,42 @@
+body {
+    background: burlywood;
+    border: 10px;
+    width: 1000px;
+}
+h1 {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    border: 8px solid rgb(139, 0, 0);
+}
+.box {
+    background-color: white;
+    border: 1px solid;
+    width: 300px;
+    text-align: center;
+}
+.rasm {
+    background-color: none;
+
+} 
+
+p{
+    text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: rgb(252, 223, 189);
+    gap: 20px;
+}
+
+.box1{
+    background-color: antiquewhite;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
